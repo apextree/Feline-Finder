@@ -40,9 +40,9 @@ Here's a walkthrough of implemented user stories:
 <img src='src/assets/Feline-Finders-Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
-MacOS Video Capture Tool
-Giphy
-EZGIF
+MacOS Video Capture Tool; 
+Giphy; 
+EZGIF; 
 
 ## Notes
 
